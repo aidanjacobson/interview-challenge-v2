@@ -23,3 +23,8 @@ Below are all the tasks/expectations required to complete this challenge. These 
 As a note, FastAPI, uvicorn, sqlalchemy, and alembic are not required to be used and may be changed if desired. 
 Any of the existing files or variables can be and may need to be changed or updated, please be prepared to explain changes on the follow-up call.
 The final end result should be a filled database, two working APIs, and an accessible API docs page.
+
+# Completion Order / Changelog
+I will list my changes and thought process here.
+
+- Set up a virtual environment using venv module, installed requirements through pip
