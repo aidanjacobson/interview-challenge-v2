@@ -28,3 +28,6 @@ The final end result should be a filled database, two working APIs, and an acces
 I will list my changes and thought process here.
 
 - Set up a virtual environment using venv module, installed requirements through pip
+
+- Modified example model to be Business Model - should include Business ID (primary key) and Business Name
+- Added Symptom model - uses business_id as foreign key, includes symptom code, name, and diagnostic status
